@@ -1,0 +1,323 @@
+.container{
+    padding-top: 150px;
+}
+
+.rekaps{
+    padding-top: 100px;
+}
+
+.juduls{
+    border: 1px solid #2f354262;
+    width: 1319px;
+    margin-left: -12px;
+    padding-left:50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:#fff;
+}
+
+.juduls_add{
+    border: 1px solid #2f354262;
+    width: 1319px;
+    margin-left: -12px;
+    padding-left:50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:#fff;
+}
+
+.judul{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+
+.jadwals{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-left: -12px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-top: 25px;
+    height: 180px;
+    
+}
+.jadwals a{
+    border: 1px solid #2f354262;
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.jadwals a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
+
+.borders{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-top: 25px;
+    margin-left: -12px;
+    height: 180px;
+    width: 550px;
+}
+
+.borders a{
+    border: 1px solid #2f354262;
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.borders a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
+
+.exams{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    height:220px;
+    padding: 25px;
+    padding-left: 50px;
+    margin-left: -12px;
+    width: 1320px;
+
+}
+
+.uas{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.uas ul{
+    list-style: none;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.uas ul li{
+    font-size:14px;
+}
+
+
+.uas a{
+    border: 1px solid #2f354262;
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.uas a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
+
+.pilgan{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+
+.hasil{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+
+.current{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.pilgan ul{
+    list-style: none;
+}
+
+.choices input{
+    margin-right: 10px;
+    margin-left: -30px;
+    margin-top:15px;
+}
+
+.choices{
+    padding-bottom: 20px;
+}
+
+.points{
+    padding-bottom: 30px;
+}
+
+.pilgan a{
+    border: 1px solid rgba(0, 0, 0, 0.412);
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -50px;
+
+}
+.pilgan a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
+
+.hasil a{
+    border: 1px solid rgba(0, 0, 0, 0.412);
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    margin-right: 10px;
+    margin-top: -50px;
+
+}
+.hasil a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
+
+.jadwals1{
+    border: 1px solid #2f354262;
+    width: 1319px;
+    background-color:#fff;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-left: -12px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-top: 25px;
+    height: 460px;
+    text-align: center;
+}
+
+.jadwals1 p label{
+    margin-right: 40px;
+}
+.jadwals1 p .pertanyaan{
+    margin-right: 16px;
+}
+.jadwals1 .pertanyaan1{
+    margin-left: 10px;
+}
+.jadwals1 input{
+    width: 800px;
+}
+.juduls_add a{
+    border: 1px solid #2f354262;
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+.juduls_add a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
+
+.jadwals1 .submit{
+    margin-top: 30px;
+    width: 200px;
+}
+.jadwals1 .start{
+    margin-bottom: 10px;
+}
+
+.jadwal_pel{
+    border: 1px solid #2f354262;
+    background-color:#fff;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-left: -12px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 450px;
+    width: 1319px;
+    
+}
+.jadwal_pel a{
+    border: 1px solid #2f354262;
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.jadwal_pel a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
+
+
+.rekaps a{
+    border: 1px solid #2f354262;
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.rekaps a:hover{
+    border: 1px solid #fff;
+    background-color: #2f354262;
+    color: #ffffff;
+}
